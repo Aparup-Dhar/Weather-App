@@ -1,5 +1,5 @@
 # Title
-Weather Applciation
+Weather Application
 
 # Description
 Simple web based weather application made using HTML,CSS and vanilla Javascript.<br>
